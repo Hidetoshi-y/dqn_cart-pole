@@ -1,1 +1,7 @@
 keras-rl/
+.cache/
+.dockerignore
+.keras/
+Dockerfile
+output/
+*.h5f
