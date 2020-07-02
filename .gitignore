@@ -5,3 +5,8 @@ keras-rl/
 Dockerfile
 output/
 *.h5f
+.bash_history
+.config/
+core
+dqn_BreakoutDeterministic-v4_log.json
+old_Dockerfile
